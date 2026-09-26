@@ -1,4 +1,22 @@
-git init
-git config --global user.name "ebraam"   
-PS E:\Devs>   git config --global user.email "ebraamraafathanna@gmail.com"
+git status
+git add .
+git commit -m "first commit"
+git config --global user.name "ebraam"
+git config --global user.email "ebraamraafathanna@gmail.com"
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sdfaajjjdslajlksdf-cloud/mastering.git
+git push -u origin main
+git status
+git add .
+git commit -m "adding git.txt"
+git push -u origin main
+
+______________________________________________
+
+git branch ebraam
+git checkout ebraam
+git checkout main 
+git checkout -b bug-fix (make new branch and go to it)
+ارجع لل برانش المين الاول و بعد كدا اعمل برانشات براحتك
 
